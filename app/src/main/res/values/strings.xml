@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StarWarsName</string>
+    <string name="first_name">First Name:</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="last_name">Last Name:</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="city_born_in">City Born In:</string>
+    <string name="enter_city_born_in">Enter City Born In</string>
+    <string name="maiden_name">Maiden Name:</string>
+    <string name="enter_mother_maiden_name">Enter Mother Maiden Name</string>
+    <string name="star_wars_name">Star Wars Name</string>
+    <string name="star_wars_name_generator">Star Wars Name Generator</string>
+    <string name="generate_name">Generate Name</string>
+</resources>
